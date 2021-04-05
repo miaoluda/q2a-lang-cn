@@ -62,7 +62,7 @@ return array(
     'u_approved_subject' => "你在 ^site_title 的账户已通过审核。",
     'wall_post_body' => "^f_handle 在你 ^site_title 的墙上发表了一个帖子：\n\n^open^post^close\n\n回复点这里：\n\n^url\n\n该邮件为系统所发，请勿直接回复本邮件！谢谢！\n^site_title",
     'wall_post_subject' => "发帖到你 ^site_title 的墙上。",
-    'welcome_body' => "感谢注册 ^site_title。\n\n^custom^confirmYour 登录详情：\n邮箱：^handle^email\n\n请保留该信息，以备日后参考。\n\n该邮件为系统所发，请勿直接回复本邮件！谢谢！\n^site_title\n^url",
+    'welcome_body' => "感谢注册 ^site_title。\n\n^custom^confirm\n\n登录详情：\n账号：^handle\n邮箱：^email\n\n请保留该信息，以备日后参考。\n\n该邮件为系统所发，请勿直接回复本邮件！谢谢！\n^site_title\n^url",
     'welcome_confirm' => "请点击下面的链接来验证你的邮箱地址：\n\n^url",
     'welcome_subject' => "欢迎来到 ^site_title!",
 );
